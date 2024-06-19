@@ -1,0 +1,498 @@
+[
+    {
+        "word": "남",
+        "gender": 1
+    },
+    {
+        "word": "남자",
+        "gender": 1
+    },
+    {
+        "word": "남성",
+        "gender": 1
+    },
+    {
+        "word": "아들",
+        "gender": 1
+    },
+    {
+        "word": "형",
+        "gender": 1
+    },
+    {
+        "word": "아버지",
+        "gender": 1
+    },
+    {
+        "word": "아빠",
+        "gender": 1
+    },
+    {
+        "word": "할아버지",
+        "gender": 1
+    },
+    {
+        "word": "오빠",
+        "gender": 1
+    },
+    {
+        "word": "소년",
+        "gender": 1
+    },
+    {
+        "word": "청년",
+        "gender": 1
+    },
+    {
+        "word": "신사",
+        "gender": 1
+    },
+    {
+        "word": "할배",
+        "gender": 1
+    },
+    {
+        "word": "아저씨",
+        "gender": 1
+    },
+    {
+        "word": "사내",
+        "gender": 1
+    },
+    {
+        "word": "형님",
+        "gender": 1
+    },
+    {
+        "word": "삼촌",
+        "gender": 1
+    },
+    {
+        "word": "남편",
+        "gender": 1
+    },
+    {
+        "word": "수컷",
+        "gender": 1
+    },
+    {
+        "word": "군인",
+        "gender": 1
+    },
+    {
+        "word": "남자친구",
+        "gender": 1
+    },
+    {
+        "word": "장남",
+        "gender": 1
+    },
+    {
+        "word": "중년",
+        "gender": 1
+    },
+    {
+        "word": "중장년",
+        "gender": 1
+    },
+    {
+        "word": "장년",
+        "gender": 1
+    },
+    {
+        "word": "마초",
+        "gender": 1
+    },
+    {
+        "word": "왕자",
+        "gender": 1
+    },
+    {
+        "word": "나무꾼",
+        "gender": 1
+    },
+    {
+        "word": "사냥꾼",
+        "gender": 1
+    },
+    {
+        "word": "머슴",
+        "gender": 1
+    },
+    {
+        "word": "양반",
+        "gender": 1
+    },
+    {
+        "word": "늑대",
+        "gender": 1
+    },
+    {
+        "word": "돌쇠",
+        "gender": 1
+    },
+    {
+        "word": "산신령",
+        "gender": 1
+    },
+    {
+        "word": "먹쇠",
+        "gender": 1
+    },
+    {
+        "word": "여",
+        "gender": 2
+    },
+    {
+        "word": "여자",
+        "gender": 2
+    },
+    {
+        "word": "여성",
+        "gender": 2
+    },
+    {
+        "word": "딸",
+        "gender": 2
+    },
+    {
+        "word": "누나",
+        "gender": 2
+    },
+    {
+        "word": "어머니",
+        "gender": 2
+    },
+    {
+        "word": "엄마",
+        "gender": 2
+    },
+    {
+        "word": "할머니",
+        "gender": 2
+    },
+    {
+        "word": "언니",
+        "gender": 2
+    },
+    {
+        "word": "소녀",
+        "gender": 2
+    },
+    {
+        "word": "처녀",
+        "gender": 2
+    },
+    {
+        "word": "여사",
+        "gender": 2
+    },
+    {
+        "word": "할매",
+        "gender": 2
+    },
+    {
+        "word": "아줌마",
+        "gender": 2
+    },
+    {
+        "word": "여인",
+        "gender": 2
+    },
+    {
+        "word": "마담",
+        "gender": 2
+    },
+    {
+        "word": "아내",
+        "gender": 2
+    },
+    {
+        "word": "암컷",
+        "gender": 2
+    },
+    {
+        "word": "아가씨",
+        "gender": 2
+    },
+    {
+        "word": "계집",
+        "gender": 2
+    },
+    {
+        "word": "아녀자",
+        "gender": 2
+    },
+    {
+        "word": "치마짜리",
+        "gender": 2
+    },
+    {
+        "word": "가시내",
+        "gender": 2
+    },
+    {
+        "word": "간내",
+        "gender": 2
+    },
+    {
+        "word": "가이네",
+        "gender": 2
+    },
+    {
+        "word": "가스나",
+        "gender": 2
+    },
+    {
+        "word": "간나",
+        "gender": 2
+    },
+    {
+        "word": "에미네",
+        "gender": 2
+    },
+    {
+        "word": "에미나이",
+        "gender": 2
+    },
+    {
+        "word": "계집아이",
+        "gender": 2
+    },
+    {
+        "word": "계집애",
+        "gender": 2
+    },
+    {
+        "word": "동녀",
+        "gender": 2
+    },
+    {
+        "word": "소랑",
+        "gender": 2
+    },
+    {
+        "word": "울녀",
+        "gender": 2
+    },
+    {
+        "word": "진녀",
+        "gender": 2
+    },
+    {
+        "word": "부인",
+        "gender": 2
+    },
+    {
+        "word": "새각시",
+        "gender": 2
+    },
+    {
+        "word": "새색시",
+        "gender": 2
+    },
+    {
+        "word": "새댁",
+        "gender": 2
+    },
+    {
+        "word": "새아기씨",
+        "gender": 2
+    },
+    {
+        "word": "새아기",
+        "gender": 2
+    },
+    {
+        "word": "소부",
+        "gender": 2
+    },
+    {
+        "word": "신부",
+        "gender": 2
+    },
+    {
+        "word": "아낙네",
+        "gender": 2
+    },
+    {
+        "word": "아주머니",
+        "gender": 2
+    },
+    {
+        "word": "아주머님",
+        "gender": 2
+    },
+    {
+        "word": "아주미",
+        "gender": 2
+    },
+    {
+        "word": "여편네",
+        "gender": 2
+    },
+    {
+        "word": "귀부인",
+        "gender": 2
+    },
+    {
+        "word": "영부인",
+        "gender": 2
+    },
+    {
+        "word": "각시",
+        "gender": 2
+    },
+    {
+        "word": "마누라",
+        "gender": 2
+    },
+    {
+        "word": "안사람",
+        "gender": 2
+    },
+    {
+        "word": "안식구",
+        "gender": 2
+    },
+    {
+        "word": "안부인",
+        "gender": 2
+    },
+    {
+        "word": "영실",
+        "gender": 2
+    },
+    {
+        "word": "애처",
+        "gender": 2
+    },
+    {
+        "word": "주부",
+        "gender": 2
+    },
+    {
+        "word": "가정주부",
+        "gender": 2
+    },
+    {
+        "word": "집사람",
+        "gender": 2
+    },
+    {
+        "word": "처",
+        "gender": 2
+    },
+    {
+        "word": "노녀",
+        "gender": 2
+    },
+    {
+        "word": "노파",
+        "gender": 2
+    },
+    {
+        "word": "할망구",
+        "gender": 2
+    },
+    {
+        "word": "할멈",
+        "gender": 2
+    },
+    {
+        "word": "할미",
+        "gender": 2
+    },
+    {
+        "word": "과부",
+        "gender": 2
+    },
+    {
+        "word": "과녀",
+        "gender": 2
+    },
+    {
+        "word": "과댁",
+        "gender": 2
+    },
+    {
+        "word": "과수",
+        "gender": 2
+    },
+    {
+        "word": "홀어미",
+        "gender": 2
+    },
+    {
+        "word": "홀어머니",
+        "gender": 2
+    },
+    {
+        "word": "간녀",
+        "gender": 2
+    },
+    {
+        "word": "귀녀",
+        "gender": 2
+    },
+    {
+        "word": "난부",
+        "gender": 2
+    },
+    {
+        "word": "독부",
+        "gender": 2
+    },
+    {
+        "word": "장녀",
+        "gender": 2
+    },
+    {
+        "word": "여왕",
+        "gender": 2
+    },
+    {
+        "word": "여장부",
+        "gender": 2
+    },
+    {
+        "word": "여중군자",
+        "gender": 2
+    },
+    {
+        "word": "요조숙녀",
+        "gender": 2
+    },
+    {
+        "word": "의부",
+        "gender": 2
+    },
+    {
+        "word": "재녀",
+        "gender": 2
+    },
+    {
+        "word": "마녀",
+        "gender": 2
+    },
+    {
+        "word": "그녀",
+        "gender": 2
+    },
+    {
+        "word": "왕비",
+        "gender": 2
+    },
+    {
+        "word": "숙모",
+        "gender": 2
+    },
+    {
+        "word": "라푼첼",
+        "gender": 2
+    },
+    {
+        "word": "빨간모자",
+        "gender": 2
+    }
+]
