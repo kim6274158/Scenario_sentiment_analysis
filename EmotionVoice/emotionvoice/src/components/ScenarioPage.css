@@ -1,0 +1,55 @@
+
+.background {
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    background-image: url(../assets/background.jpg);
+    left: 0;
+    top:0;
+    position:absolute;
+    width: 1440px;
+    height: 1024px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bookTitle {
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* 이미지가 화면 크기에 맞춰 늘어나거나 줄어들게 합니다 */
+}
+
+.background2 {
+    background-image: url(../assets/image\ 75168_454.png);
+    justify-content: center;
+    align-items: center;
+    /* width: 100vh; */
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+  .content {
+    text-align: center;
+    color: white;
+  }
+  
+  .content h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+  }
+  
+  .content button {
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+  }
+  
